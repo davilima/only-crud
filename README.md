@@ -1,2 +1,2 @@
-# only-crud
+# Only CRUD
 Only CRUD
